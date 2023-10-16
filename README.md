@@ -56,7 +56,7 @@ streamlit run Proyecto.py
 
 ## Sitio Wep
 ```bash
-"https://lucianoproyectopokemon.streamlit.app/"
+https://lucianoproyectopokemon.streamlit.app/
 ```
 
 ## Características
