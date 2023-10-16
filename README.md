@@ -14,7 +14,7 @@ Este proyecto es una aplicación de análisis de datos de Pokémon creada con St
 ---
 
 ## Tabla de Contenido
-
+- [Librerias Python Utilizadas](#librerias-python-utilizadas)
 - [CSV para realizar el Proyecto](#csv-para-realizar-el-proyecto)
 - [Requisitos](#requisitos)
 - [Instrucciones de Uso](#instrucciones-de-uso)
@@ -54,10 +54,10 @@ Una vez que hayas configurado el entorno y las dependencias, puedes ejecutar la 
 streamlit run Proyecto.py
 ```
 
-## Sitio Wep
-```bash
-https://lucianoproyectopokemon.streamlit.app/
-```
+## Acceso a la Aplicación
+
+Abre tu navegador web y visita la dirección local que muestra Streamlit: https://lucianoproyectopokemon.streamlit.app/
+
 
 ## Características
 - Filtra y explora datos de Pokémon.
