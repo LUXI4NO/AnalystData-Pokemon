@@ -1,6 +1,7 @@
 # Análisis de Datos de Pokémon con Streamlit
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)]([https://www.streamlit.com/](https://lucianoproyectopokemon.streamlit.app/))
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://lucianoproyectopokemon.streamlit.app/)
+
 
 ![image](https://github.com/LUXI4NO/AnalystData-Pokemon/assets/140111840/61610e38-7529-4d34-8bf6-83dae959c361)
 
@@ -94,6 +95,5 @@ st.pyplot(plt)
 Los datos utilizados en este proyecto se encuentran en el archivo pokemon.csv. Este archivo contiene información sobre los Pokémon, incluyendo sus nombres, tipos, estadísticas, generación y si son legendarios o no.
 
 ## Enlaces
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/](https://github.com/LUXI4NO))
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarezlucianoezequiel@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-alvarez-332843285/)
