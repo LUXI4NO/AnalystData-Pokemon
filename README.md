@@ -54,6 +54,11 @@ Una vez que hayas configurado el entorno y las dependencias, puedes ejecutar la 
 streamlit run Proyecto.py
 ```
 
+## Sitio Wep
+```bash
+"https://lucianoproyectopokemon.streamlit.app/"
+```
+
 ## Características
 - Filtra y explora datos de Pokémon.
 - Visualiza tablas de datos.
